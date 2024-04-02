@@ -667,10 +667,10 @@ background: var(--color-primary);
 
 .groupSVG {
    max-width: 19%;
-   /* right: 245px; */
+    right: 245px;
 
    /**/
-   right: 270px;
+/*    right: 270px; */
    /**/
 
 }
