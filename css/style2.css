@@ -679,8 +679,11 @@ background: var(--color-primary);
 .br0{
   display: block !important;
 }
-
-
+  /**/
+.hero-img{
+      margin-top: -10px;
+}
+/**/
 }
 
 
