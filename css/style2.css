@@ -639,13 +639,14 @@ background: var(--color-primary);
 
 #pcNone{
  display: block !important;
- margin-top: -25px;
+/*  margin-top: -25px; */
     text-align: center;
 
 
     /**/
 /*   font-size: 18px; */
   font-size: 16.5px;
+ margin-top: -32px;
     /**/
 
 }
